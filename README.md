@@ -1,5 +1,6 @@
 # Drink Local
 
+Watch 30-second [demo] (https://www.youtube.com/watch?v=6SVX3OjDIrk).
 An application that helps you find great local beers and breweries!
 
 Either search through a list breweries near you, or search breweries by city and state.   
