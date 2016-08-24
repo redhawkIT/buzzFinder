@@ -3,6 +3,11 @@
 Watch 30-second [demo] (https://www.youtube.com/watch?v=6SVX3OjDIrk).
 This is an application that helps you find great local beers and breweries!
 
+<p align="center">
+  <img src="buzz01.jpg" alt="landing" width="800"/>
+  <img src="buzz02.jpg" alt="details" width="800"/>
+</p>
+
 Either search through a list breweries near you, or search breweries by city and state.   
 View brewery details and save your favorites. 
 Share where you have been and recommend breweries to friends. Cheers!
